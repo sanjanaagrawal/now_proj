@@ -1,6 +1,6 @@
 # Scrapper
 
-***The idea of the project is to build an automated system. When the user will input his/her username and password and the organisation to be searched,then the system will login to the users account and will automatically send coonection request via message to employees of that organisation.***
+***The idea of the project is to automate sending of messages to desired people of an organisation.It will automatically send connection request via message to employees of that organisation.***
 
 ## Instructions:-
 
