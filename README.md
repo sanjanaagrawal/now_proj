@@ -4,7 +4,7 @@
 
 ## Instructions:-
 
-**1**)Install python, selenium, chromedriver and code-editor like sublime on your laptop.
+**1**)Install python3, selenium, chromedriver and code-editor like (sublime,vs code) on your laptop.
 
 **2**)Input your username , password, name of organisation to be searched and path of chromedriver in the python script.
 
