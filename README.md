@@ -1,4 +1,4 @@
-# Scrapper
+# Automating LinkedIn
 
 ***The idea of the project is to automate the process of searching for jobs, people of an organisation etc., sending connection requests with messages, automating applying for jobs using easy apply feature of LinkedIn.***
 
