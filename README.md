@@ -1,6 +1,10 @@
 # Scrapper
 
-***The idea of the project is to automate sending of messages to desired people of an organisation.It will automatically send connection request with a message to employees of that organisation.***
+***The idea of the project is to automate the process of searching for jobs, people of an organisation etc., sending connection requests with messages, automating applying for jobs using easy apply feature of LinkedIn.***
+
+## Upcoming updates:-
+
+**1**)Easy apply automatically for jobs.
 
 ## Instructions:-
 
