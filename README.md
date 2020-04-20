@@ -4,10 +4,14 @@
 
 ## Instructions:-
 
-**1**)Install python3, selenium, chromedriver and code-editor like (sublime,vs code) on your laptop.
+**1**)Install python3, selenium, chromedriver on your laptop.
 
 **2**)Input your username , password, name of organisation to be searched and path of chromedriver in the python script.
 
-**3**)Run the script using command Ctrl+B.
+**3**)Run the script using command **$ python3 {name_of_file}**.
 
 Working on user interface.
+
+## Problems that may occur:-
+
+**1**)Due to slow internet script may not run properly. **Make sure you have a stable and fast internet** 
